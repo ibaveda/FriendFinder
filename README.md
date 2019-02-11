@@ -6,13 +6,6 @@ Created during Week 13 of Coding Bootcamp. The goal was to create a Friend Finde
 ## Getting Started
 https://intense-peak-73575.herokuapp.com/
 
-## Screen Shots
-
-![Screen shot](app/public/images/friendFinderThumbnail.png)
-Index Page
-
-![Screen shot 2](app/public/images/surveyTumbnail)
-Survey
 
 ## Technologies used
 - Node.js
